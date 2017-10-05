@@ -1,0 +1,8 @@
+{
+  "short_name": "Save to Spreadsheet",
+  "name": "Save to Spreadsheet Test App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
